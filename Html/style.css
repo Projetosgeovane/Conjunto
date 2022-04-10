@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    background-image: url(https://img.elo7.com.br/product/zoom/294A824/fundo-fotografico-em-tecido-textura-cinza-escura-2-20x1-50m-cenografia.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+
+
+.container img {
+    margin: 0 auto;
+    display: flex;
+    width: 30%;
+    border: 2px solid rgba(20, 20, 20, 0.822);
+    
+    
+   
+}
+
+h1, h2 {
+    color: rgb(212, 166, 13);
+}
+
+p {
+    color: white;
+}
+
+.list { 
+    text-align: center;
+    color:rgba(255, 255, 0, 0.685);
+}
+
+body a {
+    color: rgb(235, 20, 20);
+}
+
+
+
